@@ -2,6 +2,7 @@ Tic Tac Toe Game
 This is a web-based Tic Tac Toe game where Player1 and Player2 can play the game.
 
 -- Table of Contents --
+
 -Installation
 
 -Usage
